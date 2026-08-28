@@ -1,12 +1,18 @@
 # Parnika Gupta
 
-**Embedded firmware engineer** — ~5 years in C/C++ across bare-metal, RTOS, and Embedded Linux. Security-critical crypto firmware, EtherCAT-certified industrial systems, and IoT platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
+**Embedded firmware engineer** 3+ years of fulltime professional experience in C/C++/Python across bare-metal, RTOS, and Embedded Linux. Security-critical crypto firmware, EtherCAT-certified industrial systems, and IoT platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
 
-MS EE @ NYU Tandon (May 2026) · New York · **Open to embedded / firmware roles**
+MS EE @ NYU Tandon (May 2026) **Open to embedded / firmware roles**
 
 [Email](mailto:pg2825@nyu.edu) · [LinkedIn](https://linkedin.com/in/parnikagupta9) · [Portfolio](https://sites.google.com/nyu.edu/parnika-gupta)
 
 **Stack** — 💻 C, C++, Embedded C, Python, Structured Text · 🔩 STM32, ESP32, ARM Cortex, Xilinx FPGA, VEGA (RISC-V) · 🐧 RTOS, Embedded Linux, Yocto, bootloaders, kernel modules · 🔌 EtherCAT, SPI, I2C, UART, CAN, MQTT, BLE, GSM · 🧰 TwinCAT, CTT/KPA, Cadence Virtuoso, logic analyzers, JTAG
+
+#### ⚡ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,ts,rust,matlab,linux,qt,cmake,docker,git,github,aws&theme=light&perline=7)](https://skillicons.dev)
+
+**Also** — 🔩 STM32, ESP32, ARM Cortex, Xilinx FPGA, VEGA (RISC-V), Raspberry Pi · 🐧 RTOS, Yocto, bootloaders, kernel modules, POSIX · 🔌 EtherCAT, SPI, I2C, UART, CAN, MQTT, BLE, GSM · 📊 DSP, DMA, Grafana, InfluxDB · 🧰 TwinCAT, CTT/KPA, Cadence Virtuoso, JIRA, logic analyzers, JTAG · 💻 Structured Text (PLC), Assembly, LaTeX
 
 <sub>💻 languages · 🔩 silicon & boards · 🐧 OS & kernel · 🔌 protocols · ⚙️ architecture · 🔐 security · 📊 signals & data · 🧪 test · 🧰 tools · ✅ compliance · 👥 people</sub>
 
