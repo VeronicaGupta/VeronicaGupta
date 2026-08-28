@@ -55,12 +55,12 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
  
 ## Experience
 
-- **Hypertherm Associates** · Project Intern, USA · *May – Aug 2025*
+- **Hypertherm Associates** · Project Intern, NH, USA · *May – Aug 2025*
   - **Code** — **[RTOS EtherCAT Performance Analysis](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis)** 
   - **Task** — Test how the plasma cutter's 32-bit MCU talks to the CNC controls over EtherCAT. Measured latency on the critical process data, found where hardware and software were dropping or delaying messages, and ran EtherCAT conformance certification with the official CTT tool and KPA Studio statistics, recreating real industry scenarios.
   - **Skills** — Embedded C (Hilscher), Structured Text PLC, TwinCAT, EtherCAT, CTT, KPA Studio, latency measurement, automated regression testing
  
-- **NYU Tandon School of Engineering** · Graduate Course Assistant, Brooklyn NY · *Sept 2024 – May 2025*
+- **NYU Tandon School of Engineering** · Graduate Course Assistant, NY, USA · *Sep 2024 – May 2025*
   - **Task** — Ran the lab sections for 100+ students in ECE-UY 3114/3124 Fundamentals of Electronics under Prof. Michael Knox: diode characteristics (Zener, LED, photodiode), BJT and MOSFET transistors, passive R/L/C behaviour, and op-amp logic circuits, with PSpice simulation alongside the bench work. Worked with faculty to design the report-based and in-lab assignments and the grading practice behind them, so students debugged their own circuits on the instruments instead of following a recipe.
   - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
 
@@ -83,17 +83,21 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Task** — Commission IoT gateways in bulk instead of one technician per unit. STM32 firmware plus a PyQt desktop tool that drives the modem over AT commands, checks signal health, parses logs, and batches the tests. Deployed across 300+ airports; end-to-end test time fell 5×.
   - **Skills** — Embedded C++, RTOS, STM32, Python, PyQt5, Qt, GSM, AT commands, USB-serial, log parsing, batch test automation
 
-- **Accenture** · Applications Engineer, Cloud Infrastructure · *Feb – Oct 2021*
+- **Accenture** · Applications Engineer, India · *Feb – Oct 2021*
   - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
   - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
  
-- *IIT Kanpur* 
+- *IIT Kanpur* · Research Intern, India · *May – Jul 2019*
   - **Whitepaper** — **[UAV Communication Design Aspects](https://www.slideshare.net/slideshow/integrationaspectsoftelemetrysystemforasurveillanceuavpdf-dae3/265407364)**
   - **Task** — Research based project focusing on the component requirements, comparison and integration of a wireless HD video and data link communication system for a unmanned aerial vehicles (UAVs) which includes surveillance camera, antenna and transceiver for airborne and ground station for 20 km range, involvement in the procurement for the same.
   - **Skills** — Raspberry Pi, Pi camera, UAV, PIC controller, MIPI, Tranceiver
 More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
 
-
+Other Embedded projects:
+1. **[LCD Driver](https://github.com/VeronicaGupta/LCD-embedded-code-in-C-for-Arduino)** (Skills: Embedded C, Device Driver, Bit Manipulation, LCD)
+2. **[DC Motor PWM Angle Controller GUI Feedback](https://github.com/VeronicaGupta/Motor-Angle-Controller)** (Skills: Embedded C, DC Motor, Python, QT GUI)
+3. **[IR Sensor Threshold with LCD Feedback](https://github.com/VeronicaGupta/Visitor_Detection)** (Skills: Embedded C, IR sensor, LCD)
+4. **[Two Button Short/Long Interrupts](https://github.com/VeronicaGupta/Toggle-navigation-two-buttons-/blob/master/Main%20code%20for%20simulation)** (Skills: Interrupt, Buttons)
 ## Things I Like to Do
 
 - Singing, swimming, and martial arts — the things that keep the desk hours honest. I volunteer with [Heartfulness](https://www.linkedin.com/company/heartfulness) (Mindfulness & Meditation practices) and am a member of [WomenAdoreTech](https://www.linkedin.com/company/womenadoretech). Off-hours reading is mostly science, psychology, and history — good places to steal first-principles ideas from.
