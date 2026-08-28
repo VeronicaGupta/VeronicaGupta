@@ -23,26 +23,27 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
 - **MS Electrical Engineering**, NYU Tandon — *Sept 2024 – May 2026*
   - Activities and societies: Vertically Integrated Projects (VIP)
-  - Flexible AI-enabled Mechatronic Systems Lab (FAMS) Team under Prof. Rui Li (Spring 2025)
+    - Flexible AI-enabled Mechatronic Systems Lab (FAMS) Team under Prof. Rui Li (Spring 2025)
   
   COURSES
   
-  Signal Processing:
-  - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis)
-  - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling)
-  - Interactive Medical Robotics (Matlab-Simulink for Tele-robotics Design and Optimization Analysis) 
-  - Digital Signal Processing (Python-Matlab for Speech and Audio Filtering and Windowing Analysis)
-  - Linear Systems (Matlab for State-Space Analysis)
+  - Signal Processing:
+    - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis)
+    - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling)
+    - Interactive Medical Robotics (Matlab-Simulink for Tele-robotics Design and Optimization Analysis) 
+    - Digital Signal Processing (Python-Matlab for Speech and Audio Filtering and Windowing Analysis)
+    - Linear Systems (Matlab for State-Space Analysis)
   
-  Embedded Systems:
-  - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos)
+  - Embedded Systems:
+    - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos)
   
-  Statistical Analysis:
-  - Stock Investment Risk (R Studio for Risk analysis)
-  - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model)
+  - Statistical Analysis:
+    - Stock Investment Risk (R Studio for Risk analysis)
+    - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model)
   
-  Analog Electronics:
-  - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis)
+  - Analog Electronics:
+    - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis)
+       
 - **B.Tech Electronics & Communication**, Banasthali University — *July 2016 – July 2020*
   - Microcontrollers, Digital Electronics, Computer Architecture, Communication Networks, Probability
 
