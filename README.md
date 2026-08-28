@@ -6,7 +6,9 @@ MS EE @ NYU Tandon (May 2026) · New York · **Open to embedded / firmware roles
 
 [Email](mailto:pg2825@nyu.edu) · [LinkedIn](https://linkedin.com/in/parnikagupta9) · [Portfolio](https://sites.google.com/nyu.edu/parnika-gupta)
 
-**Stack** — C, C++, Embedded C, Python, Structured Text · STM32, ESP32, ARM Cortex, Xilinx FPGA, VEGA (RISC-V) · RTOS, Embedded Linux, Yocto, bootloaders, kernel modules · EtherCAT, SPI, I2C, UART, CAN, MQTT, BLE, GSM · TwinCAT, CTT/KPA, Cadence Virtuoso, logic analyzers, JTAG
+**Stack** — 💻 C, C++, Embedded C, Python, Structured Text · 🔩 STM32, ESP32, ARM Cortex, Xilinx FPGA, VEGA (RISC-V) · 🐧 RTOS, Embedded Linux, Yocto, bootloaders, kernel modules · 🔌 EtherCAT, SPI, I2C, UART, CAN, MQTT, BLE, GSM · 🧰 TwinCAT, CTT/KPA, Cadence Virtuoso, logic analyzers, JTAG
+
+<sub>💻 languages · 🔩 silicon & boards · 🐧 OS & kernel · 🔌 protocols · ⚙️ architecture · 🔐 security · 📊 signals & data · 🧪 test · 🧰 tools · ✅ compliance · 👥 people</sub>
 
 ---
 
@@ -18,31 +20,60 @@ MS EE @ NYU Tandon (May 2026) · New York · **Open to embedded / firmware roles
 ## Experience
 
 **Hypertherm Associates** · Project Associate (Intern), USA · *May – Aug 2025*
-Built latency diagnostics between a 32-bit MCU plasma cutter and CNC controls; ran EtherCAT certification testing with the official CTT tool and KPA Studio.
+**Task** — Find and quantify communication faults between a plasma cutter's 32-bit MCU and CNC controls, and certify the link's EtherCAT conformance.
+**Skills** — 💻 Embedded C (Hilscher), Structured Text PLC · 🔌 EtherCAT · 🧰 TwinCAT, CTT, KPA Studio · 🧪 latency measurement, automated regression testing
 
 **Faucet Labs (Cypherock)** · Embedded Engineer / Team Lead, India · *Dec 2023 – Aug 2024*
-Designed an inheritance-transaction architecture for secure ownership transfer of hardware wallets; shipped Starknet and Bittensor signing PoCs; led the hardware team and mentored [GSoC](https://github.com/Cypherock/gsoc) interns.
+**Task** — Make hardware-wallet ownership transferable without ever exposing the seed, extend chain support, and lead the hardware team.
+**Skills** — 💻 Embedded C (STM32), TypeScript, Python · 🔐 symmetric-key cryptography, Starknet & Bittensor transaction signing · 👥 code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
 
 **Kimbal Tech** · Automation Engineer (Consultant), India · *Nov – Dec 2023*
-State-machine production simulator with time-locked validation — cut manufacturing defect rate 20%.
+**Task** — Catch defects on a three-phase smart-meter production line before units ship; defect rate fell 20%.
+**Skills** — 💻 C++ · ⚙️ multi-stage state machines · 🧪 time-locked validation, automated diagnostic feedback
 
 **Avrio Energy** · Embedded Developer & Founding Member, India · *Oct 2020 – Oct 2023*
-Hit 1% V/I accuracy for edge-ML microservices at 1s latency over SPI/UART/Ethernet; built the MQTT + Yocto pipeline for remote monitoring and OTA; 10% warehouse energy saved via HVAC automation; 100% installation success rate.
+**Task** — Build an AI energy-metering product from nothing — sensor to cloud — plus the manufacturing behind it. 1% V/I accuracy at 1s latency, 10% warehouse energy saved, 100% installation success, throughput doubled.
+**Skills** — 💻 Embedded C (ESP32, Xilinx), C++, Python · 🐧 Yocto / ARM Linux · 🔌 SPI, UART, Ethernet, MQTT, OTA updates · 📊 Grafana · ✅ EMC & safety compliance RCA · 👥 documentation, procurement, QC
 
 **Gaia Smart Cities** · Project Associate (Intern), India · *Jan – Oct 2020*
-Cross-platform signal verification and log parsing for IoT provisioning, deployed across 300+ airports — 5× faster end-to-end testing.
+**Task** — Commission IoT gateways at airport scale without a technician debugging each one; shipped to 300+ airports, testing 5× faster.
+**Skills** — 💻 Embedded C++, Python / PyQt5 · 🔩 STM32, RTOS · 🔌 GSM / AT commands · 🧪 log parsing, batch test automation
 
 *Also:* Engineer at Accenture (Data Management Platform, 10 months) · NYU Course Assistant, Fundamentals of Electronics I & II.
 
 ## Projects
 
-- [**Linux Edge ML Energy Analytics**](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics) — identifies *which* appliance switched on/off from a single whole-home sensor, 90% accuracy, inference on a constrained FPGA. Secure boot, SPI/I2C drivers, MQTT, remote retraining.
-- [**RTOS EtherCAT Performance Analysis**](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis) — latency diagnostics and a Structured Text PLC method for standardized controller testing. *(Hypertherm)*
-- [**RTOS Motion Processing**](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition) — gesture unlock on STM32: interrupt-driven IMU capture, FIR filtering, flash storage, DTW matching.
-- [**Linux Cryptographic Session**](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt) — authenticated ECDH from a BIP39 mnemonic over BIP32 paths, ECDSA-signed ephemeral keys, AES-256 messaging. *(Cypherock)*
-- **Linux Kernel Message Queue** — character-device IPC with bounded blocking read/write, no races or busy-waiting.
-- [**Wide-band Transimpedance Amplifier**](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier) — 4-stage CMOS optical front end, >5 GHz bandwidth, 74 dB gain.
-- [**Melanoma Triage**](https://github.com/VeronicaGupta/melonoma-detection) and [**Prostate MRI Segmentation**](https://github.com/Shrey12202/Prostate-MRI-Segmentation) — medical imaging under class imbalance; MedSAM2/U-Net with a learned box predictor for prompt-less inference.
+**[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)** · *Avrio Energy*
+**Task** — Tell which appliance switched on or off from a single whole-home sensor, inferring on the meter itself. 90% accuracy on a memory- and CPU-constrained FPGA, retrainable remotely without reflashing.
+**Skills** — 🐧 Embedded Linux, secure boot, shell scripting · 🔩 VEGA SoC (RISC-V), Xilinx FPGA · 🔌 SPI/I2C drivers, MQTT · ⚙️ multithreading, producer-consumer queues · 📊 InfluxDB, Grafana
+
+**[RTOS EtherCAT Performance Analysis](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis)** · *Hypertherm*
+**Task** — Measure latency between the plasma cutter MCU and CNC controls, and leave the team a repeatable PLC method for standardized controller testing.
+**Skills** — 💻 Embedded C, Structured Text / TwinCAT · 🔩 RTOS · 🔌 EtherCAT, SPI, UART · 🧪 unit/integration/system testing
+
+**[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)** · *NYU Embedded Systems*
+**Task** — Unlock a device by gesture: record a gyroscope sequence to flash, match later attempts against it, stay locked on mismatch.
+**Skills** — 💻 Embedded C++ · 🔩 STM32, IMU, interrupt-driven SPI · ⚙️ event queues, state machines · 📊 moving-average FIR, DTW matching · 🧰 flash file I/O, LCD feedback, Teleplot
+
+**[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)** · *Cypherock*
+**Task** — Derive a mutually authenticated encrypted channel between client and server from nothing but a shared BIP39 mnemonic.
+**Skills** — 💻 Python · 🔐 ECDH, secp256k1, BIP32/39 derivation, ECDSA, AES-256, point compression · ⚙️ client-server security design
+
+**Linux Kernel Message Queue**
+**Task** — Let many user-space producers and consumers exchange messages through the kernel without races, unbounded memory growth, or busy-waiting.
+**Skills** — 🐧 Linux kernel module, character device, insmod/rmmod, dmesg · ⚙️ circular buffer, mutex/semaphore synchronization, blocking I/O · 🧰 Makefile build flow · 🧪 multithreaded validation
+
+**[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)** · *NYU*
+**Task** — Turn weak photodiode current into usable voltage as a low-noise optical front end — >5 GHz bandwidth, 74 dB gain.
+**Skills** — 🔩 transistor-level CMOS design, 4-stage + differential topology, noise tuning · 🧰 Cadence Virtuoso
+
+**[Melanoma Triage](https://github.com/VeronicaGupta/melonoma-detection)** · *NYU*
+**Task** — Triage melanoma risk from lesion images and metadata before biopsy, where missed malignancies are the costly error.
+**Skills** — 💻 Python · 📊 extreme class-imbalance handling, real + synthetic training data, image/metadata ensembling · 🧪 sensitivity-focused partial-AUC evaluation
+
+**[Prostate MRI Segmentation](https://github.com/Shrey12202/Prostate-MRI-Segmentation)** · *NYU*
+**Task** — Segment prostate anatomy on Prostate158 with no manual prompts at inference, cutting contouring time and inter-reader variability.
+**Skills** — 📊 MedSAM2 fine-tuning, U-Net, learned bounding-box predictor (BoxNet) · 🧪 Dice evaluation
 
 More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
 
