@@ -15,6 +15,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 - **OS & kernel** — RTOS, Embedded Linux, Yocto, bootloaders, secure boot, kernel modules, POSIX, DMA
 - **Protocols** — EtherCAT, SPI, I2C, UART, CAN, USB, Ethernet, MQTT, BLE, WiFi, GSM, TCP, ADC/DAC, IPC
 - **Tools** — TwinCAT, EtherCAT CTT, KPA Studio, Cadence Virtuoso, Proteus, JTAG debuggers, oscilloscope, logic/spectrum/network analyzers, Docker, CMake, JIRA
+- **ML** — Class-imbalance handling, real + synthetic training data, image and metadata model ensembling, partial-AUC evaluation, fine-tuning, U-Net, BoxNet bounding-box prediction, Dice evaluation
 - **Domains** — embedded systems, signal processing, hardware bring-up and testing, conformance (protocol / safety / EMC / RoHS), automation, IoT, control systems
 
 ---
@@ -28,44 +29,59 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   COURSES
   
   - Signal Processing:
-    - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis)
-    - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling)
+    - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis) (Project: )
+    - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling) (Project: **[Prostate MRI Segmentation](https://github.com/Shrey12202/Prostate-MRI-Segmentation)** )
     - Interactive Medical Robotics (Matlab-Simulink for Tele-robotics Design and Optimization Analysis) 
     - Digital Signal Processing (Python-Matlab for Speech and Audio Filtering and Windowing Analysis)
     - Linear Systems (Matlab for State-Space Analysis)
+    - Masters Project : **[Melanoma Triage](https://github.com/VeronicaGupta/melonoma-detection)**
   
   - Embedded Systems:
-    - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos)
+    - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos) (Project: **[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)**)
   
   - Statistical Analysis:
     - Stock Investment Risk (R Studio for Risk analysis)
     - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model)
   
   - Analog Electronics:
-    - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis)
+    - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis) (Project: **[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)**)
        
 - **B.Tech Electronics & Communication**, Banasthali University — *July 2016 – July 2020*
   - Microcontrollers, Digital Electronics, Computer Architecture, Communication Networks, Probability
 
+## Achievements
+
+- **[Swadeshi Microprocessor Challenge]([https://shakti.org.in/sp2020-shakti.html](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor)) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. [Video](https://youtu.be/csK1fTdUoUE)
+- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
+- **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras for reducing carbon footprint with the energy saving solution.
+- **NYU Merit Scholarship 2024** · *NYU* — sponsored by NYU.
+- **SWE Conference 2025** · *NYU* — sponsored by NYU.
+- **Science Quiz 2019** · *Banasthali University*— 2nd rank, university.
+  
 ## Experience
 
-- **Hypertherm Associates** · Project Associate (Intern), USA · *May – Aug 2025*
+- **Hypertherm Associates** · Project Intern, USA · *May – Aug 2025*
+  - **Code** — **[RTOS EtherCAT Performance Analysis](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis)** 
   - **Task** — Test how the plasma cutter's 32-bit MCU talks to the CNC controls over EtherCAT. Measured latency on the critical process data, found where hardware and software were dropping or delaying messages, and ran EtherCAT conformance certification with the official CTT tool and KPA Studio statistics, recreating real industry scenarios.
   - **Skills** — Embedded C (Hilscher), Structured Text PLC, TwinCAT, EtherCAT, CTT, KPA Studio, latency measurement, automated regression testing
 
-- **Faucet Labs (Cypherock)** · Embedded Engineer / Team Lead, India · *Dec 2023 – Aug 2024*
+- **Faucet Labs** · Embedded Engineer, India · *Dec 2023 – Aug 2024*
+  - **Code Excerpt** — **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**
   - **Task** — Build a way to hand a hardware wallet over to an heir without the seed ever leaving the device — a symmetric-key inheritance transaction architecture in STM32 firmware. Added Starknet and Bittensor transaction signing, and led the hardware team through client issues, bug fixes, and feature integration.
-  - **Skills** — Embedded C (STM32), TypeScript, Python, symmetric-key cryptography, transaction signing, code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
+  - **Skills** — Embedded C (STM32), Python, ECDH, secp256k1, BIP32/BIP39 derivation, ECDSA, AES-256, point compression, client-server security design, TypeScript, Python, symmetric-key cryptography, transaction signing, code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
 
 - **Kimbal Tech** · Embedded Engineer, India · *Nov – Dec 2023*
+  - **Code** —   **[SPM-UnitTest-Simulator](https://github.com/VeronicaGupta/SPM-UnitTest-Simulator)**
   - **Task** — Write a simulator that runs a three-phase smart meter through 12 validation phases as a state machine, with time-locked pass/fail output, so bad units get caught on the line instead of in the field. Defect rate fell 20%.
   - **Skills** — C++, multi-stage state machines, time-locked validation, unit testing, automated diagnostic feedback
 
-- **Avrio Energy** · Embedded Developer & Founding Member, India · *Oct 2020 – Oct 2023*
+- **Avrio Energy** · Founding Embedded Engineer, India · *Oct 2020 – Oct 2023*
+  - **Code** — **[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)** 
   - **Task** — Founding engineer on an AI energy meter, sensor to cloud. Brought up the board, wrote the drivers, built the Yocto/ARM Linux image, and moved binary packets over SPI, UART and Ethernet into an MQTT pipeline for remote monitoring and OTA updates — 1% voltage and current accuracy at 1s latency, with a static config flow reworked into a parametrized calibration file. Also traced EMC and safety compliance failures back to high-frequency noise in the PCB and schematic, automated sensor-driven HVAC switching (10% warehouse energy saved), and set up procurement, manufacturing and QC (throughput doubled, 100% installation success).
-  - **Skills** — Embedded C (ESP32, Xilinx), C++, Python, Yocto, ARM Linux, SPI, UART, Ethernet, MQTT, OTA updates, edge ML micro-services, EMC & safety compliance RCA, Grafana, documentation, procurement, QC
+  - **Skills** — Embedded C (ESP32, Xilinx), C++, Python, Yocto, ARM Linux, SPI, UART, Ethernet, MQTT, OTA updates, edge ML micro-services, EMC & safety compliance RCA, Grafana, documentation, procurement, QC, Embedded Linux, VEGA SoC (RISC-V), Xilinx FPGA, secure boot, SPI/I2C drivers, multithreading, thread-safe producer-consumer queues, state machines, DSP, ADE register calibration, MQTT/Mosquitto, SSL certificates, TinyDB, InfluxDB, Grafana, shell scripting, Linux kernel module, character device, circular buffer, mutex/semaphore synchronization, blocking I/O, Makefile build flow, insmod/rmmod, dmesg, multithreaded producer-consumer validation
 
-- **Gaia Smart Cities** · Project Associate (Intern), India · *Jan – Oct 2020*
+- **Gaia Smart Cities** · Project Intern, India · *Jan – Oct 2020*
+  - **Code** — **[RTOS_Automation_Framework](https://github.com/VeronicaGupta/RTOS_Automation_Framework)** 
   - **Task** — Commission IoT gateways in bulk instead of one technician per unit. STM32 firmware plus a PyQt desktop tool that drives the modem over AT commands, checks signal health, parses logs, and batches the tests. Deployed across 300+ airports; end-to-end test time fell 5×.
   - **Skills** — Embedded C++, RTOS, STM32, Python, PyQt5, Qt, GSM, AT commands, USB-serial, log parsing, batch test automation
 
@@ -77,50 +93,8 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
   - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
 
-## Projects
-
-- **[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)** · *Avrio Energy*
-  - **Task** — Work out which appliance just switched on or off by watching only the whole-home current, with no sensor per device. NILM inference runs on the meter itself — a memory- and CPU-constrained FPGA — at 90% accuracy, with remote retraining that needs no reprogramming, live cloud streaming, and a one-command factory reset.
-  - **Skills** — Embedded Linux, VEGA SoC (RISC-V), Xilinx FPGA, secure boot, SPI/I2C drivers, multithreading, thread-safe producer-consumer queues, state machines, DSP, ADE register calibration, MQTT/Mosquitto, SSL certificates, TinyDB, InfluxDB, Grafana, shell scripting
-
-- **[RTOS EtherCAT Performance Analysis](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis)** · *Hypertherm*
-  - **Task** — Measure latency between the plasma cutter MCU and the CNC controls, and leave behind a Structured Text PLC routine the team can rerun as a standard internal controller test.
-  - **Skills** — Embedded C, Structured Text, TwinCAT, RTOS, EtherCAT, SPI, UART, unit/integration/system testing, automated regression testing
-
-- **[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)** · *NYU Embedded Systems*
-  - **Task** — Gesture unlock. Sample the gyro over SPI on interrupt, smooth it with a moving-average FIR, save the sequence to flash, then score a new gesture against it with DTW — unlock on a match, stay locked on anything else, with LCD feedback for success, failure and loading.
-  - **Skills** — Embedded C++, STM32, interrupt-driven SPI, IMU sensors, event queues, state machines, FIR filtering, DTW matching, flash file I/O, LCD driver, Teleplot
-
-- **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)** · *Cypherock*
-  - **Task** — Set up an encrypted channel between client and server starting from nothing but a shared BIP39 mnemonic: derive identity keys down BIP32 paths, authenticate the ephemeral ECDH keys with ECDSA so both sides are verified, then derive an AES session key for messaging.
-  - **Skills** — Python, ECDH, secp256k1, BIP32/BIP39 derivation, ECDSA, AES-256, point compression, client-server security design
-
-- **Linux Kernel Message Queue**
-  - **Task** — A character-device message queue inside the Linux kernel so several user-space producers and consumers can pass messages safely — bounded ring buffer, blocking read/write, no race conditions, no unbounded memory growth, no busy-waiting.
-  - **Skills** — Linux kernel module, character device, circular buffer, mutex/semaphore synchronization, blocking I/O, Makefile build flow, insmod/rmmod, dmesg, multithreaded producer-consumer validation
-
-- **[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)** · *NYU*
-  - **Task** — Turn the tiny current out of a photodiode into a usable voltage as the front end for an optical sensor. Transistor-level design — four CMOS stages plus a differential stage, tuned for noise. >5 GHz bandwidth, 74 dB gain.
-  - **Skills** — Transistor-level CMOS design, differential topology, noise tuning, Cadence Virtuoso
-
-- **[Melanoma Triage](https://github.com/VeronicaGupta/melonoma-detection)** · *NYU*
-  - **Task** — Flag which skin lesions need a biopsy, from the image plus patient metadata. Built for the pre-biopsy case where missing a malignancy costs far more than a false alarm, on data with extreme class imbalance and non-dermoscopic image quality.
-  - **Skills** — Python, class-imbalance handling, real + synthetic training data, image and metadata model ensembling, partial-AUC evaluation above a minimum TPR threshold
-
-- **[Prostate MRI Segmentation](https://github.com/Shrey12202/Prostate-MRI-Segmentation)** · *NYU*
-  - **Task** — Segment the prostate on MRI without a human drawing the box first. Fine-tuned MedSAM2 against a U-Net baseline, with a learned bounding-box predictor (BoxNet) supplying the prompt at inference — cuts contouring time and inter-reader variability.
-  - **Skills** — MedSAM2 fine-tuning, U-Net, BoxNet bounding-box prediction, Dice evaluation, Prostate158 dataset
-
 More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
 
-## Achievements
-
-- **[Swadeshi Microprocessor Challenge]([https://shakti.org.in/sp2020-shakti.html](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor)) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. [Video](https://youtu.be/csK1fTdUoUE)
-- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
-- **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras for reducing carbon footprint with the energy saving solution.
-- **NYU Merit Scholarship 2024** · *NYU* — sponsored by NYU.
-- **SWE Conference 2025** · *NYU* — sponsored by NYU.
-- **Science Quiz 2019** · *Banasthali University*— 2nd rank, university.
 
 ## Things I Like to Do
 
