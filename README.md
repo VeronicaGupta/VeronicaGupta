@@ -13,13 +13,13 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 - **Languages** — Embedded C, C++, Python, Shell, Structured Text (PLC), Assembly, TypeScript, MATLAB, LaTeX
 - **Computer Architecture**: ARM Cortex, RISC-V, FreeRTOS, Zephyr RTOS
 - **Controllers boards** — STM32, ESP32, ESP8266, ATmega32, NanoPi Duo 2, Raspberry Pi, Xilinx Genesys 2 FPGA, Artix-7 FPGA, Jetson Orin Nano
-- **OS & kernel** — RTOS, Embedded Linux, Yocto, bootloaders, secure boot, kernel modules, POSIX, DMA, multithreading, multiprocessing
+- **OS & kernel** — RTOS, Embedded Linux, Yocto, bootloaders, secure boot, encryption, kernel modules, POSIX, DMA, multithreading, multiprocessing
 - **Hardware Protocols** — EtherCAT, SPI, I2C, UART, CAN, USB, Ethernet, MQTT, BLE, WiFi, GSM, TCP, ADC/DAC, IPC, Zigbee, Timers
-- **Tools** — TwinCAT, EtherCAT CTT, KPA Studio, Cadence Virtuoso, Proteus, JTAG debuggers, Digital Storage Oscilloscope, Docker, CMake, Waveform Generator, Git Version Control, Jira, Agile, Jenkins, AWS, UML
-- **Testing** — GCC, GDB, Static test (Trace/Logic/Spectrum/Network Analyzers), Unity/Google unit tests, Integration GUI automated tests, Functional tests, White/Black box test, System tests 
-- **ML** —  GPU, HPC, CNN, KNN, U-Net, ViT, Decision Tree Classifier, Class-imbalance handling, real + synthetic training data, image and metadata model ensembling, partial-AUC evaluation, fine-tuning, bounding-box prediction, Dice evaluation
+- **Tools** — TwinCAT, EtherCAT CTT, KPA Studio, Cadence Virtuoso, Proteus, JTAG debuggers, Digital Storage Oscilloscope, Docker, CMake, Waveform Generator, Git Version Control, Jira, Agile, Jenkins, AWS, UML 
+- **Testing** — GCC, GDB, Static test (Github Actions: Lint, Clang-Tidy), Dynamic test (Qemu, CPU/Memory tracking), Trace/Logic/Spectrum/Network Analyzers, Unit tests (Unity/Google), Integration/Functional GUI automated tests, White/Black box test, System/End-to-End tests 
+- **ML** —  Google Collab (GPU, TPU), PyTorch, Pandas, HPC, CNN, KNN, U-Net, ViT, Decision Tree Classifier, Class-imbalance handling, real + synthetic training data, image and metadata model ensembling, partial-AUC evaluation, fine-tuning, bounding-box prediction, Dice evaluation
 - **Domains** — embedded systems, signal processing, hardware bring-up and testing, conformance (protocol / safety / EMC / RoHS), automation, IoT, control systems
-- **Other** — MQTT, HTTP, SSH, IPv6, mDNS, Socket programming, OTA, MMIO, Secure-Boot, Power Management, Timing Analysis, Root Cause Analysis
+- **Other** — MQTT, HTTP, SSH, IPv6, mDNS, Socket programming, OTA, MMIO, Device Driver, Power Management, Timing Analysis, Root Cause Analysis
 
 ---
 
