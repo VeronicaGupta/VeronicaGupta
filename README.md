@@ -1,6 +1,6 @@
 # Parnika Gupta
 
-**Embedded firmware engineer** — 3+ years of full-time professional experience in C/C++/Python across bare-metal, RTOS, and Embedded Linux. Security-critical crypto firmware, EtherCAT-certified industrial systems, and IoT platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
+**Embedded firmware engineer** — 3+ years of full-time professional experience in C/C++/Python across bare-metal, RTOS, and Embedded Linux. Security-critical crypto firmware, industrial IoT/automation system design and performance, and edge AI platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
 
 MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
@@ -11,12 +11,15 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,ts,rust,matlab,linux,qt,cmake,docker,git,github,aws&theme=light&perline=7)](https://skillicons.dev)
 
 - **Languages** — Embedded C, C++, Python, Shell, Structured Text (PLC), Assembly, TypeScript, MATLAB, LaTeX
-- **Silicon & boards** — STM32, ESP32, ARM Cortex, Xilinx FPGA, VEGA SoC (RISC-V), Raspberry Pi, NanoPi
-- **OS & kernel** — RTOS, Embedded Linux, Yocto, bootloaders, secure boot, kernel modules, POSIX, DMA
-- **Protocols** — EtherCAT, SPI, I2C, UART, CAN, USB, Ethernet, MQTT, BLE, WiFi, GSM, TCP, ADC/DAC, IPC
-- **Tools** — TwinCAT, EtherCAT CTT, KPA Studio, Cadence Virtuoso, Proteus, JTAG debuggers, oscilloscope, logic/spectrum/network analyzers, Docker, CMake, JIRA
+- **Computer Architecture**: ARM Cortex, RISC-V, FreeRTOS, Zephyr RTOS
+- **Controllers boards** — STM32, ESP32, ESP8266, ATmega32, NanoPi Duo 2, Raspberry Pi, Xilinx Genesys 2 FPGA, Artix-7 FPGA, Jetson Orin Nano
+- **OS & kernel** — RTOS, Embedded Linux, Yocto, bootloaders, secure boot, kernel modules, POSIX, DMA, multithreading, multiprocessing
+- **Hardware Protocols** — EtherCAT, SPI, I2C, UART, CAN, USB, Ethernet, MQTT, BLE, WiFi, GSM, TCP, ADC/DAC, IPC, Zigbee, Timers
+- **Tools** — GPU, HPC, TwinCAT, EtherCAT CTT, KPA Studio, Cadence Virtuoso, Proteus, JTAG debuggers, Digital Storage Oscilloscope, Docker, CMake, Waveform Generator, Git Version Control, Jira, Agile, Jenkins, AWS, UML
+- **Testing** — GCC, GDB, Trace/Logic/Spectrum/Network Analyzers, Unity/Google unit tests, Integration GUI automated tests, White/Black box testing 
 - **ML** — Class-imbalance handling, real + synthetic training data, image and metadata model ensembling, partial-AUC evaluation, fine-tuning, U-Net, BoxNet bounding-box prediction, Dice evaluation
 - **Domains** — embedded systems, signal processing, hardware bring-up and testing, conformance (protocol / safety / EMC / RoHS), automation, IoT, control systems
+- **Other** — MQTT, HTTP, SSH, IPv6, mDNS, Socket programming, OTA, MMIO, Secure-Boot, Power Management, Timing Analysis, Root Cause Analysis
 
 ---
 
