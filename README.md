@@ -47,12 +47,12 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 ## Achievements
 
 - **[Swadeshi Microprocessor Challenge](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. [Video](https://youtu.be/csK1fTdUoUE), **Code** — **[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)** 
-- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
+- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days. **Code** — **[Starknet_Fund Transfer](https://github.com/VeronicaGupta/Startnet_Transaction_Signing_Demo)** 
 - **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras for reducing carbon footprint with the energy saving solution.
 - **NYU Merit Scholarship 2024** · *NYU* — sponsored by NYU.
 - **SWE Conference 2025** · *NYU* — sponsored by NYU.
 - **Science Quiz 2019** · *Banasthali University*— 2nd rank, university.
-  
+ 
 ## Experience
 
 - **Hypertherm Associates** · Project Intern, USA · *May – Aug 2025*
@@ -65,7 +65,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
 
 - **Faucet Labs** · Embedded Engineer, India · *Dec 2023 – Aug 2024*
-  - **Code Excerpt** — **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**
+  - **Code** — **[Inheritance session](https://github.com/Cypherock/x1_wallet_firmware/tree/feat/inheritance-session)**, **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**, **[LVGL Bitmap Font](https://github.com/VeronicaGupta/lv_multi_font_conv)**, **[Bittensor](https://github.com/VeronicaGupta/bittensor-txn-signing)**, **[Ethereum](https://github.com/VeronicaGupta/Signed_ETH_TXN)**, **[Starknet]( https://github.com/VeronicaGupta/Starknet_Coin_Transaction)**, **[Bitcoin]( https://github.com/VeronicaGupta/Signed_BTC_TXN)** Coins Transaction signing.
   - **Task** — Build a way to hand a hardware wallet over to an heir without the seed ever leaving the device — a symmetric-key inheritance transaction architecture in STM32 firmware. Added Starknet and Bittensor transaction signing, and led the hardware team through client issues, bug fixes, and feature integration.
   - **Skills** — Embedded C (STM32), Python, ECDH, secp256k1, BIP32/BIP39 derivation, ECDSA, AES-256, point compression, client-server security design, TypeScript, Python, symmetric-key cryptography, transaction signing, code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
 
@@ -76,7 +76,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
 - **Avrio Energy** · Founding Embedded Engineer, India · *Oct 2020 – Oct 2023*
   - **Task** — Founding engineer on an AI energy meter, sensor to cloud. Brought up the board, wrote the drivers, built the Yocto/ARM Linux image, and moved binary packets over SPI, UART and Ethernet into an MQTT pipeline for remote monitoring and OTA updates — 1% voltage and current accuracy at 1s latency, with a static config flow reworked into a parametrized calibration file. Also traced EMC and safety compliance failures back to high-frequency noise in the PCB and schematic, automated sensor-driven HVAC switching (10% warehouse energy saved), and set up procurement, manufacturing and QC (throughput doubled, 100% installation success).
-  - **Skills** — Embedded C (ESP32, Xilinx), C++, Python, Yocto, ARM Linux, SPI, UART, Ethernet, MQTT, OTA updates, edge ML micro-services, EMC & safety compliance RCA, Grafana, documentation, procurement, QC, Embedded Linux, VEGA SoC (RISC-V), Xilinx FPGA, secure boot, SPI/I2C drivers, multithreading, thread-safe producer-consumer queues, state machines, DSP, ADE register calibration, MQTT/Mosquitto, SSL certificates, TinyDB, InfluxDB, Grafana, shell scripting, Linux kernel module, character device, circular buffer, mutex/semaphore synchronization, blocking I/O, Makefile build flow, insmod/rmmod, dmesg, multithreaded producer-consumer validation
+  - **Skills** — Embedded C (ESP32, Xilinx), C++, Python, Yocto, ARM Linux, SPI, UART, Ethernet, MQTT, OTA updates, edge ML micro-services, EMC & safety compliance RCA, Grafana, documentation, procurement, QC, Embedded Linux, VEGA SoC (RISC-V), Xilinx FPGA, secure boot, SPI/I2C drivers, multithreading, thread-safe producer-consumer queues, state machines, DSP, ADE register calibration, MQTT/Mosquitto, SSL certificates, TinyDB, InfluxDB, Grafana, shell scripting, Linux kernel module, character device, circular buffer, mutex/semaphore synchronization, blocking I/O, Makefile build flow, insmod/rmmod, dmesg, multithreaded producer-consumer validation.
 
 - **Gaia Smart Cities** · Project Intern, India · *Jan – Oct 2020*
   - **Code** — **[RTOS_Automation_Framework](https://github.com/VeronicaGupta/RTOS_Automation_Framework)** 
@@ -86,7 +86,11 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 - **Accenture** · Applications Engineer, Cloud Infrastructure · *Feb – Oct 2021*
   - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
   - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
-
+ 
+- *IIT Kanpur* 
+  - **Whitepaper** — **[UAV Communication Design Aspects](https://www.slideshare.net/slideshow/integrationaspectsoftelemetrysystemforasurveillanceuavpdf-dae3/265407364)**
+  - **Task** — Research based project focusing on the component requirements, comparison and integration of a wireless HD video and data link communication system for a unmanned aerial vehicles (UAVs) which includes surveillance camera, antenna and transceiver for airborne and ground station for 20 km range, involvement in the procurement for the same.
+  - **Skills** — Raspberry Pi, Pi camera, UAV, PIC controller, MIPI, Tranceiver
 More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
 
 
