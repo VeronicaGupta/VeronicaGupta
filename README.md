@@ -90,8 +90,9 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 - *IIT Kanpur* · Research Intern, India · *May – Jul 2019*
   - **Whitepaper** — **[UAV Communication Design Aspects](https://www.slideshare.net/slideshow/integrationaspectsoftelemetrysystemforasurveillanceuavpdf-dae3/265407364)**
   - **Task** — Research based project focusing on the component requirements, comparison and integration of a wireless HD video and data link communication system for a unmanned aerial vehicles (UAVs) which includes surveillance camera, antenna and transceiver for airborne and ground station for 20 km range, involvement in the procurement for the same.
-  - **Skills** — Raspberry Pi, Pi camera, UAV, PIC controller, MIPI, Tranceiver
-More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
+  - **Skills** — Python, Raspberry Pi, Pi camera, UAV, PIC controller, MIPI, Transceiver
+
+### More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), with reports, posters, and demo videos.
 
 Other Embedded projects:
 1. **[LCD Driver](https://github.com/VeronicaGupta/LCD-embedded-code-in-C-for-Arduino)** (Skills: Embedded C, Device Driver, Bit Manipulation, LCD)
