@@ -26,20 +26,20 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - Signal Processing:
     - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis) (Project: **[Hormone Behavior Analysis](https://github.com/VeronicaGupta/aldosterone_urhythm_data_analysis)**)
     - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling) (Project: **[Prostate MRI Segmentation](https://github.com/Shrey12202/Prostate-MRI-Segmentation)** )
-    - Masters Project : **[Skin Cancer Image Analysis](https://github.com/VeronicaGupta/melonoma-detection)**
+    - Masters Advanced Course (Project : **[Skin Cancer Image Analysis](https://github.com/VeronicaGupta/melonoma-detection)**)
     - Interactive Medical Robotics (Matlab/Simulink for Tele-robotics Design and Optimization Analysis)
     - Digital Signal Processing (Python/Matlab for Speech and Audio Filtering and Windowing Analysis)
     - Linear Systems (Matlab for State-Space Analysis)
   
   - Embedded Systems:
-    - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos) (Project: **[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)**)
+    - Embedded System (Project: **[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)**, ASM Programming, STMF429 with PlatformIO in Mbed Rtos)
   
   - Statistical Analysis:
-    - Stock Investment Risk (R Studio for Risk analysis) (Project: **[AMZN Stock Risk Statistiscal Analysis](https://github.com/VeronicaGupta/Statistical_Stock_Risk_Analysis)**)
-    - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model) (Project: **[Crypto Regulatory Risk Model Statistical Analysis](https://github.com/VeronicaGupta/Statistical_Crypto_Regulatory_Model_Risk_Analysis)**)
+    - Stock Investment Risk (Project: **[AMZN Stock Risk Statistiscal Analysis](https://github.com/VeronicaGupta/Statistical_Stock_Risk_Analysis)**, R Studio for Risk analysis)
+    - Model Risk Management (Project: **[Crypto Regulatory Risk Model Statistical Analysis](https://github.com/VeronicaGupta/Statistical_Crypto_Regulatory_Model_Risk_Analysis)**, R Studio for Policy indicator effects analysis on a Risk Model)
   
   - Analog Electronics:
-    - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis) (Project: **[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)**)
+    - Communication Circuits and Components (Project: **[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)**, Cadence Virtuoso for Transistor-level Circuit design and analysis)
        
 - **B.Tech Electronics & Communication**, Banasthali University — *July 2016 – July 2020*
   - Microcontrollers, Digital Electronics, Computer Architecture, Communication Networks, Probability
