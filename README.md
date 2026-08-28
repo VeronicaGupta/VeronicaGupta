@@ -22,26 +22,21 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
 ## Education
 
-- **MS Electrical Engineering**, NYU Tandon — *Sept 2024 – May 2026*
-  - Activities and societies: Vertically Integrated Projects (VIP)
-    - Flexible AI-enabled Mechatronic Systems Lab (FAMS) Team under Prof. Rui Li (Spring 2025)
-  
-  COURSES
-  
+- **MS Electrical Engineering**, NYU Tandon — *Sept 2024 – May 2026* 
   - Signal Processing:
-    - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis) (Project: )
+    - Neural and Physiological Signal Processing (Matlab for Deconvolution, State Estimation & Hormone Data Statistical Analysis) (Project: **[Hormone Behavior Analysis](https://github.com/VeronicaGupta/aldosterone_urhythm_data_analysis)**)
     - Image and Video Signal Processing (Python for Image & Video Machine Learning Modelling) (Project: **[Prostate MRI Segmentation](https://github.com/Shrey12202/Prostate-MRI-Segmentation)** )
-    - Interactive Medical Robotics (Matlab-Simulink for Tele-robotics Design and Optimization Analysis) 
-    - Digital Signal Processing (Python-Matlab for Speech and Audio Filtering and Windowing Analysis)
+    - Masters Project : **[Skin Cancer Image Analysis](https://github.com/VeronicaGupta/melonoma-detection)**
+    - Interactive Medical Robotics (Matlab/Simulink for Tele-robotics Design and Optimization Analysis)
+    - Digital Signal Processing (Python/Matlab for Speech and Audio Filtering and Windowing Analysis)
     - Linear Systems (Matlab for State-Space Analysis)
-    - Masters Project : **[Melanoma Triage](https://github.com/VeronicaGupta/melonoma-detection)**
   
   - Embedded Systems:
     - Embedded System (ASM Programming, STMF429 with PlatformIO in Mbed Rtos) (Project: **[RTOS Motion Processing](https://github.com/VeronicaGupta/RTOS_Motion_Processing_for_Pattern_Recognition)**)
   
   - Statistical Analysis:
-    - Stock Investment Risk (R Studio for Risk analysis)
-    - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model)
+    - Stock Investment Risk (R Studio for Risk analysis) (Project: **[AMZN Stock Risk Statistiscal Analysis](https://github.com/VeronicaGupta/Statistical_Stock_Risk_Analysis)**)
+    - Model Risk Management (R Studio for Policy indicator effects analysis on a Risk Model) (Project: **[Crypto Regulatory Risk Model Statistical Analysis](https://github.com/VeronicaGupta/Statistical_Crypto_Regulatory_Model_Risk_Analysis)**)
   
   - Analog Electronics:
     - Communication Circuits and Components (Cadence Virtuoso for Transistor-level Circuit design and analysis) (Project: **[Wide-band Transimpedance Amplifier](https://github.com/VeronicaGupta/Wide-band-Transimpedance-Amplifier)**)
@@ -64,6 +59,10 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Code** — **[RTOS EtherCAT Performance Analysis](https://github.com/VeronicaGupta/RTOS_EtherCAT_Perfomance_Analysis)** 
   - **Task** — Test how the plasma cutter's 32-bit MCU talks to the CNC controls over EtherCAT. Measured latency on the critical process data, found where hardware and software were dropping or delaying messages, and ran EtherCAT conformance certification with the official CTT tool and KPA Studio statistics, recreating real industry scenarios.
   - **Skills** — Embedded C (Hilscher), Structured Text PLC, TwinCAT, EtherCAT, CTT, KPA Studio, latency measurement, automated regression testing
+ 
+- **NYU Tandon School of Engineering** · Graduate Course Assistant, Brooklyn NY · *Sept 2024 – May 2025*
+  - **Task** — Ran the lab sections for 100+ students in ECE-UY 3114/3124 Fundamentals of Electronics under Prof. Michael Knox: diode characteristics (Zener, LED, photodiode), BJT and MOSFET transistors, passive R/L/C behaviour, and op-amp logic circuits, with PSpice simulation alongside the bench work. Worked with faculty to design the report-based and in-lab assignments and the grading practice behind them, so students debugged their own circuits on the instruments instead of following a recipe.
+  - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
 
 - **Faucet Labs** · Embedded Engineer, India · *Dec 2023 – Aug 2024*
   - **Code Excerpt** — **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**
@@ -84,10 +83,6 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Code** — **[RTOS_Automation_Framework](https://github.com/VeronicaGupta/RTOS_Automation_Framework)** 
   - **Task** — Commission IoT gateways in bulk instead of one technician per unit. STM32 firmware plus a PyQt desktop tool that drives the modem over AT commands, checks signal health, parses logs, and batches the tests. Deployed across 300+ airports; end-to-end test time fell 5×.
   - **Skills** — Embedded C++, RTOS, STM32, Python, PyQt5, Qt, GSM, AT commands, USB-serial, log parsing, batch test automation
-
-- **NYU Tandon School of Engineering** · Graduate Course Assistant, Brooklyn NY · *Sept 2024 – May 2025*
-  - **Task** — Ran the lab sections for 100+ students in ECE-UY 3114/3124 Fundamentals of Electronics under Prof. Michael Knox: diode characteristics (Zener, LED, photodiode), BJT and MOSFET transistors, passive R/L/C behaviour, and op-amp logic circuits, with PSpice simulation alongside the bench work. Worked with faculty to design the report-based and in-lab assignments and the grading practice behind them, so students debugged their own circuits on the instruments instead of following a recipe.
-  - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
 
 - **Accenture** · Applications Engineer, Cloud Infrastructure · *Feb – Oct 2021*
   - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
