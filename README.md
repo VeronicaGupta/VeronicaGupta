@@ -74,19 +74,19 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Task** — Write a simulator that runs a three-phase smart meter through 12 validation phases as a state machine, with time-locked pass/fail output, so bad units get caught on the line instead of in the field. Defect rate fell 20%.
   - **Skills** — C++, multi-stage state machines, time-locked validation, unit testing, automated diagnostic feedback
 
-- **Avrio Energy** · Founding Embedded Engineer, India · *Oct 2020 – Oct 2023*
+- **Avrio Energy** · Founding Embedded Engineer, India · *Oct 2020 – Feb 2021 & Oct 2021 – Oct 2023*
   - **Task** — Founding engineer on an AI energy meter, sensor to cloud. Brought up the board, wrote the drivers, built the Yocto/ARM Linux image, and moved binary packets over SPI, UART and Ethernet into an MQTT pipeline for remote monitoring and OTA updates — 1% voltage and current accuracy at 1s latency, with a static config flow reworked into a parametrized calibration file. Also traced EMC and safety compliance failures back to high-frequency noise in the PCB and schematic, automated sensor-driven HVAC switching (10% warehouse energy saved), and set up procurement, manufacturing and QC (throughput doubled, 100% installation success).
   - **Skills** — Embedded C (ESP32, Xilinx), C++, Python, Yocto, ARM Linux, SPI, UART, Ethernet, MQTT, OTA updates, edge ML micro-services, EMC & safety compliance RCA, Grafana, documentation, procurement, QC, Embedded Linux, VEGA SoC (RISC-V), Xilinx FPGA, secure boot, SPI/I2C drivers, multithreading, thread-safe producer-consumer queues, state machines, DSP, ADE register calibration, MQTT/Mosquitto, SSL certificates, TinyDB, InfluxDB, Grafana, shell scripting, Linux kernel module, character device, circular buffer, mutex/semaphore synchronization, blocking I/O, Makefile build flow, insmod/rmmod, dmesg, multithreaded producer-consumer validation.
+ 
+- **Accenture** · Applications Engineer, India · *Feb – Oct 2021*
+  - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
+  - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
 
 - **Gaia Smart Cities** · Project Intern, India · *Jan – Oct 2020*
   - **Code** — **[RTOS_Automation_Framework](https://github.com/VeronicaGupta/RTOS_Automation_Framework)** 
   - **Task** — Commission IoT gateways in bulk instead of one technician per unit. STM32 firmware plus a PyQt desktop tool that drives the modem over AT commands, checks signal health, parses logs, and batches the tests. Deployed across 300+ airports; end-to-end test time fell 5×.
   - **Skills** — Embedded C++, RTOS, STM32, Python, PyQt5, Qt, GSM, AT commands, USB-serial, log parsing, batch test automation
 
-- **Accenture** · Applications Engineer, India · *Feb – Oct 2021*
-  - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
-  - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
- 
 - *IIT Kanpur* · Research Intern, India · *May – Jul 2019*
   - **Whitepaper** — **[UAV Communication Design Aspects](https://www.slideshare.net/slideshow/integrationaspectsoftelemetrysystemforasurveillanceuavpdf-dae3/265407364)**
   - **Task** — Research based project focusing on the component requirements, comparison and integration of a wireless HD video and data link communication system for a unmanned aerial vehicles (UAVs) which includes surveillance camera, antenna and transceiver for airborne and ground station for 20 km range, involvement in the procurement for the same.
