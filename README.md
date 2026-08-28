@@ -22,7 +22,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 ## Education
 
 - **MS Electrical Engineering**, NYU Tandon — *Sept 2024 – May 2026*
-  - Embedded Systems, Control Systems, DSP, Analog Circuit Design, Interactive Medical Robotics, Neuro & Physiological Signal Processing, Image/Video Processing with ML, Probability and Statistics
+  - Embedded Systems, Linear Systems, DSP, Analog Circuit Design, Interactive Medical Robotics, Neuro & Physiological Signal Processing, Image/Video Processing with ML, Probability and Statistics
 - **B.Tech Electronics & Communication**, Banasthali University — *July 2016 – July 2020*
   - Microcontrollers, Digital Electronics, Computer Architecture, Communication Networks, Probability
 
@@ -36,7 +36,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Task** — Build a way to hand a hardware wallet over to an heir without the seed ever leaving the device — a symmetric-key inheritance transaction architecture in STM32 firmware. Added Starknet and Bittensor transaction signing, and led the hardware team through client issues, bug fixes, and feature integration.
   - **Skills** — Embedded C (STM32), TypeScript, Python, symmetric-key cryptography, transaction signing, code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
 
-- **Kimbal Tech** · Automation Engineer (Consultant), India · *Nov – Dec 2023*
+- **Kimbal Tech** · Embedded Engineer, India · *Nov – Dec 2023*
   - **Task** — Write a simulator that runs a three-phase smart meter through 12 validation phases as a state machine, with time-locked pass/fail output, so bad units get caught on the line instead of in the field. Defect rate fell 20%.
   - **Skills** — C++, multi-stage state machines, time-locked validation, unit testing, automated diagnostic feedback
 
@@ -48,7 +48,13 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Task** — Commission IoT gateways in bulk instead of one technician per unit. STM32 firmware plus a PyQt desktop tool that drives the modem over AT commands, checks signal health, parses logs, and batches the tests. Deployed across 300+ airports; end-to-end test time fell 5×.
   - **Skills** — Embedded C++, RTOS, STM32, Python, PyQt5, Qt, GSM, AT commands, USB-serial, log parsing, batch test automation
 
-- *Also:* Engineer at Accenture (Data Management Platform, 10 months) · NYU Course Assistant, Fundamentals of Electronics I & II
+- **NYU Tandon School of Engineering** · Graduate Course Assistant, Brooklyn NY · *Sept 2024 – May 2025*
+  - **Task** — Ran the lab sections for 100+ students in ECE-UY 3114/3124 Fundamentals of Electronics under Prof. Michael Knox: diode characteristics (Zener, LED, photodiode), BJT and MOSFET transistors, passive R/L/C behaviour, and op-amp logic circuits, with PSpice simulation alongside the bench work. Worked with faculty to design the report-based and in-lab assignments and the grading practice behind them, so students debugged their own circuits on the instruments instead of following a recipe.
+  - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
+
+- **Accenture** · Applications Engineer, Cloud Infrastructure · *Feb – Oct 2021*
+  - **Task** — Automate the test workflows for a cloud infrastructure team. Built C# and SharePoint automations in Power Automate to exercise load-balancing server failure cases, and a Power BI dashboard that turned raw server performance data into a KPI visualizer the team could read at a glance.
+  - **Skills** — C#, SharePoint, Power Automate, Power BI, workflow automation, load-balancing failure testing, KPI dashboards
 
 ## Projects
 
@@ -88,11 +94,12 @@ More on the [portfolio site](https://sites.google.com/nyu.edu/parnika-gupta), wi
 
 ## Achievements
 
-- **[Swadeshi Microprocessor Challenge](https://shakti.org.in/sp2020-shakti.html) 2021** — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. [Video](https://youtu.be/csK1fTdUoUE)
-- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
-- **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** — $6,000 grant from IIT Madras, plus the challenge's Women's Day Honor.
-- **SWE Conference 2025** — sponsored by NYU. **Science Quiz 2019** — 2nd rank, university.
+- **[Swadeshi Microprocessor Challenge]([https://shakti.org.in/sp2020-shakti.html](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor)) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. [Video](https://youtu.be/csK1fTdUoUE)
+- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
+- **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras, plus the challenge's Women's Day Honor.
+- **SWE Conference 2025** · *NYU* — sponsored by NYU.
+- **Science Quiz 2019** · *Banasthali University*— 2nd rank, university.
 
 ## Things I Like to Do
 
-Singing, swimming, and martial arts — the things that keep the desk hours honest. I volunteer with [Heartfulness](https://www.linkedin.com/company/heartfulness) (meditation) and am a member of [WomenAdoreTech](https://www.linkedin.com/company/womenadoretech). Off-hours reading is mostly science, psychology, and history — good places to steal first-principles ideas from.
+- Singing, swimming, and martial arts — the things that keep the desk hours honest. I volunteer with [Heartfulness](https://www.linkedin.com/company/heartfulness) (Mindfulness & Meditation practices) and am a member of [WomenAdoreTech](https://www.linkedin.com/company/womenadoretech). Off-hours reading is mostly science, psychology, and history — good places to steal first-principles ideas from.
