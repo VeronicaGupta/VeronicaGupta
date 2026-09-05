@@ -30,7 +30,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 - **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras for reducing carbon footprint with the energy saving solution.
 - **NYU Merit Scholarship 2024** · *NYU* — sponsored by NYU.
 - **SWE Conference 2025** · *NYU* — sponsored by NYU.
-- **Science Quiz 2019** · *Banasthali University*— 2nd rank, university.
+- **Won Science Quiz 2019** · *Banasthali University*.
  
 ## Experience
 
