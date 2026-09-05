@@ -25,11 +25,13 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
 ## Achievements
 
-- **[Swadeshi Microprocessor Challenge](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT. ([Video](https://youtu.be/csK1fTdUoUE), **Code** — **[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)**)
-- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days. (**Code** — **[Starknet_Fund Transfer](https://github.com/VeronicaGupta/Startnet_Transaction_Signing_Demo)**)
+- **[Swadeshi Microprocessor Challenge](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1778754&reg=48&lang=2#:~:text=6.%C2%A0%20The%C2%A0%20Team%2D%20Avrio%20Energy%20jointly%20bagged%20the%204th%20Prize%20under%20Swadeshi%20Microprocessor%20Challenge%20for%20demonstrating%20%E2%80%93%20Next%2Dgeneration%20AI%20Energy%20Meter%20with%20Intelligence%20at%20Edge%20and%20Deep%20Learning%20using%20VEGA%20Processor) 2021** · *Avrio Energy* — $30,000 prize, national. Single-sensor appliance detector at 90% accuracy on a new FPGA stack; demoed to India's Minister of Electronics & IT.
+ - ([Video](https://youtu.be/csK1fTdUoUE), **Code** — **[Linux Edge ML Energy Analytics](https://github.com/VeronicaGupta/Linux_Edge_ML_Energy_Analytics)**)
+- **[ETHDenver Hackathon](https://www.starknet.io/blog/starknet-ethdenver-hacker-house/) 2024** · *Faucet Labs* — $25,000 grant for a Starknet signing PoC built on hardware in 3 days.
+ - (**Code** — **[Starknet_Fund Transfer_App](https://github.com/VeronicaGupta/Startnet_Transaction_Signing_Demo)** and  **[Starknet_Fund Transfer_Firmware]( https://github.com/VeronicaGupta/Starknet_Coin_Transaction)**)
 - **[Carbon Zero Challenge](https://czeroc.in/gallery/shortlisted-teams-2022/) 2022** · *Avrio Energy* — $6,000 grant from IIT Madras for reducing carbon footprint with the energy saving solution.
 - **NYU Merit Scholarship 2024** · *NYU* — sponsored by NYU.
-- **SWE Conference 2025** · *NYU* — sponsored by NYU.
+- **SWE Conference Scholarship 2025** · *NYU* — sponsored by NYU.
 - **Won Science Quiz 2019** · *Banasthali University*.
  
 ## Experience
@@ -44,7 +46,7 @@ MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
   - **Skills** — Analog and digital circuit analysis, diodes (Zener/LED/photodiode), BJT/MOSFET, passive components, op-amps, PSpice simulation, oscilloscope, multimeter, function generator, lab instruction, assessment design
 
 - **Faucet Labs** · Embedded Engineer, India · *Dec 2023 – Aug 2024*
-  - **Code** — **[Open Source Inheritance session](https://github.com/Cypherock/x1_wallet_firmware/tree/feat/inheritance-session)**, **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**, **[LVGL Bitmap Font](https://github.com/VeronicaGupta/lv_multi_font_conv)**, **[Bittensor](https://github.com/VeronicaGupta/bittensor-txn-signing)**, **[Ethereum](https://github.com/VeronicaGupta/Signed_ETH_TXN)**, **[Starknet]( https://github.com/VeronicaGupta/Starknet_Coin_Transaction)**, **[Bitcoin]( https://github.com/VeronicaGupta/Signed_BTC_TXN)** Coins Transaction signing.
+  - **Code** — **[Open Source Inheritance session](https://github.com/Cypherock/x1_wallet_firmware/tree/feat/inheritance-session)**, **[Linux Cryptographic Session](https://github.com/VeronicaGupta/Linux_Cryptographic_Session_Encrypt_Decrypt)**, **[LVGL Bitmap Font](https://github.com/VeronicaGupta/lv_multi_font_conv)**, **[Bittensor](https://github.com/VeronicaGupta/bittensor-txn-signing)**, **[Ethereum](https://github.com/VeronicaGupta/Signed_ETH_TXN)**, **[Bitcoin]( https://github.com/VeronicaGupta/Signed_BTC_TXN)** Coins Transaction signing.
   - **Task** — Build a way to hand a hardware wallet over to an heir without the seed ever leaving the device — a symmetric-key inheritance transaction architecture in STM32 open-source bare-metal firmware. Added Starknet and Bittensor transaction signing, and led the hardware team through client issues, bug fixes, and feature integration.
   - **Skills** — Embedded C (STM32), Python, ECDH, secp256k1, BIP32/BIP39 derivation, ECDSA, AES-256, point compression, client-server security design, TypeScript, Python, symmetric-key cryptography, transaction signing, code review, [GSoC](https://github.com/Cypherock/gsoc) mentoring
 
