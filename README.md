@@ -1,6 +1,6 @@
 # Parnika Gupta
 
-**Embedded firmware engineer** — 3+ years of full-time professional experience in C/C++/Python across bare-metal, RTOS, and Linux. Security-critical crypto firmware, industrial IoT/automation system design and performance, and edge AI platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
+**Embedded firmware engineer** — 3+ years of full-time professional experience in C/C++/Python across bare-metal, RTOS, and Linux. Security-critical crypto firmware, industrial IoT/automation system design and performance, and edge AI metering platforms built from scratch as a founding engineer. I take features from hardware bring-up through drivers, protocols, and compliance to ship.
 
 MS EE @ NYU Tandon (May 2026) · **Open to embedded / firmware roles**
 
